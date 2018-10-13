@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/portals-guardian-landing",
   siteMetadata: {
     title: 'Guardián del portal',
   },
